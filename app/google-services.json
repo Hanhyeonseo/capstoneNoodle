@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "888567822176",
+    "project_id": "splendorserver",
+    "storage_bucket": "splendorserver.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:888567822176:android:08c23ff416937543c91005",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCY4iIt8lLErtBROnDFbc5Bn-oFF2K6td8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

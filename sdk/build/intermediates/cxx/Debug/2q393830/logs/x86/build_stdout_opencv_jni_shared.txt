@@ -1,0 +1,2 @@
+ninja: Entering directory `C:\Users\Legion 5 PRO\StudioProjects\MyApplication2\sdk\.cxx\Debug\2q393830\x86'
+ninja: no work to do.
