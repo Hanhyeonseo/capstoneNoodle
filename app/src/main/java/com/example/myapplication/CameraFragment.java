@@ -274,3 +274,6 @@ public class CameraFragment extends Fragment {
         }
     }
 }
+
+
+// 깃허브에 수정사항이 반영되는지 확인하기 위한 주석
