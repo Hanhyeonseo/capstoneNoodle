@@ -58,13 +58,13 @@ public class CameraFragment extends Fragment {
     private static final float NMS_THRESHOLD = 0.45f;
 
     // YOLOv8 모델에서 사용하는 라벨 수 확인 (출력의 클래스 수와 일치하도록 수정)
-    private final String[] ramenLabels = {
+    /*private final String[] ramenLabels = {
             "jinHot", "jinMild", "wang", "king", "kimchi", "ojingeo", "sesame", "kaguri", "shin", "buldak",
             "buldakCarbo", "buldak4Cheese", "kingSoup", "kingSoup2", "jinMildSoup", "sesameSoup1",
             "sesameSoup2", "sesameSoup3", "buldakSoup", "buldakSoup2", "jinHotSoup", "shinSoup",
             "kimchiSoup", "kimchiSoup2", "carboSoup", "carboSoup2", "kaguriSoup", "ojingeoSoup",
             "cheeseSoup", "cheeseSoup2", "wangSoup", "wangSoup2"
-    };
+    };*/
 // 또는 모델에 맞는 라벨이 몇 개인지 확인하고 이에 맞게 배열을 확장/축소해야 합니다.
 
 
